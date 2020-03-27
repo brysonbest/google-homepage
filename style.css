@@ -65,9 +65,8 @@ li{
 
 }
 .searchcontainer {
-  display:flex;
-  border-color:#D3D3D3;
-  width: 30em;
+    display:flex;
+    border-color:#D3D3D3;
     border: 1px solid #ccc;
     border-radius: 30px;
     margin: 10px 5px;
